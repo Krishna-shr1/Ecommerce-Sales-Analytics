@@ -25,7 +25,8 @@ to uncover revenue leakage, profit trends and business insights.
 - 🚚 **Standard Class** shipping used by 60% of customers but takes 5 days
 
 ## 📊 Dashboard Preview
-[Add screenshot of your Power BI dashboard here]
+<img width="1311" height="737" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/06a37bf1-76e6-41fb-8e48-bb05b85493fb" />
+
 
 ## 📂 Dataset
 Superstore Sales Dataset from Kaggle
@@ -34,4 +35,4 @@ Superstore Sales Dataset from Kaggle
 ## 👤 Author
 **Krishna Sharma**  
 B.Tech Student | Aspiring Data Analyst  
-👉 https://www.linkedin.com/in/yourprofile
+👉 https://www.linkedin.com/in/krishna-sharma-0b6340344/
